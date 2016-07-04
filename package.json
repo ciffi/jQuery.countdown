@@ -4,10 +4,10 @@
   "description": "The Final Countdown for jQuery",
   "author": "Edson Hilios",
   "main": "dist/jquery.countdown.js",
-  "homepage": "http://hilios.github.io/jQuery.countdown/",
+  "homepage": "https://github.com/ciffi/jQuery.countdown/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hilios/jQuery.countdown"
+    "url": "git+https://github.com/ciffi/jQuery.countdown.git"
   },
   "devDependencies": {
     "grunt": "~0.4",
