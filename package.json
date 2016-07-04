@@ -3,6 +3,7 @@
   "version": "2.1.0",
   "description": "The Final Countdown for jQuery",
   "author": "Edson Hilios",
+  "main": "dist/jquery.countdown.js",
   "homepage": "http://hilios.github.io/jQuery.countdown/",
   "repository": {
     "type": "git",
